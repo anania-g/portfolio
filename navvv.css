@@ -1,0 +1,116 @@
+.topbar {
+  padding: 15px;
+  border: 0px solid #666;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: -15px;
+ 
+  background-color: #2048bb;
+}
+.propic {
+  width: 100px;
+  height: 100px;
+  margin-top: -5px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  outline: 2px solid #1da1f2;
+}
+.probar {
+  text-align: left;
+
+}
+.text {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 20px;
+  margin-top: 15px;
+  font-family: Arial;
+  font-size: large;
+  line-height: 150%;
+  color: white;
+}
+.quote {
+  display: inline-block;
+  vertical-align: top;
+margin-left: 30px;
+  color: white;
+  font-size: xx-large;
+  text-align: left;
+  font-weight: bolder;
+  font-style: italic;
+}
+.nav-item nav-link active {
+  background-color: #2048bb;
+}
+
+
+
+.aboutme {
+  display: inline-block;
+  margin-left: 50px;
+}
+
+/* top part including the nav bar ends here */
+
+.parallelogram {
+  width: 400px;
+  height: 450px;
+  transform: skew(-15deg);
+  background-color: #2048bb;
+  margin-left: 60px;
+  shape-outside: margin-box;
+  border-radius: 10px;
+}
+.photo {
+  transform: skew(-15deg);
+margin-left:30px;
+border-color: #2048bb;
+border: 5px solid transparent;
+  border-radius: 10px;
+margin-right: 5px;
+outline: 5px solid #2048bb;
+
+}
+.paragraph{
+  transform: skew(-10deg);
+text-align: center;
+margin-right: 5%;
+padding-right: 5px;
+}
+.about{
+  transform: skew(-15deg);
+margin-left:10px;
+}
+.abouttext{
+  font-size: 110px;
+  text-align: center;
+  font-weight: bold;
+  color: #666;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  font-family: 'Poppins', sans-serif;
+}
+.me{
+  color: #2048bb;
+  font-weight: bold;
+}
+.card1{
+  
+  border-color: #2048bb;
+border: 5px solid transparent;
+}
+.aboutt{
+color: #1da1f2;
+}
+.messagepic{
+  width: 70px;
+  height: 70px;
+  margin-top: -5px;
+  border-radius: 100%;
+  border: 2px solid transparent;
+  outline: 2px solid yellow;
+}
+.message{
+ text-align: right;
+}
